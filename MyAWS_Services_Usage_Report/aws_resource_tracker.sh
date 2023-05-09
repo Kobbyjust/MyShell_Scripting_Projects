@@ -8,7 +8,7 @@
 #
 # This Script will Report the AWS Resource usage in the AWS Account
 ####################
-set +x
+set -x
 
 # AWS s3
 # AWS EC2
