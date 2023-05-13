@@ -1,0 +1,7 @@
+1. To Check which shell you are using, Use
+    echo $SHELL
+
+2. TO Configure Bash
+    which bash
+    /usr/bin/bash
+
