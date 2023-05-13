@@ -5,3 +5,11 @@
     which bash
     /usr/bin/bash
 
+# IMPORTANT
+Every bash script starts with
+#!/bin/bash
+This command tells the what interpretor the script uses
+
+## To Execute A Script
+1. Make it excutable by using
+    sudo chmod +x script_name
